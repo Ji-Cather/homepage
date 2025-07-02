@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-Based Agents"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-10-01-srapagent
+excerpt: 'This work introduces SRAP-Agent, a multi-agent frmaework for optimizing resource allocation policies.'
+date: 2025-05-01
+venue: 'EMNLP-2024(findings)'
+# slidesurl: 'http://arxiv.org/abs/2410.14152'
+paperurl: 'https://arxiv.org/pdf/2410.14152'
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib'
+citation: 'Ji, Jiarui, et al. "SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent." Findings of the Association for Computational Linguistics: EMNLP 2024.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+## Introduction
+
+Efficient resource allocation is a critical challenge in various domains, including healthcare, logistics, and disaster management. The **SRAP-Agent** framework harnesses the capabilities of LLMs to simulate complex scenarios and optimize resource allocation policies effectively. By leveraging LLMs, SRAP-Agent enables decision-makers to test and refine their allocation strategies in a virtual environment, improving outcomes in real-world applications. Explore the [source code on GitHub](https://github.com/jijiarui-cather/SRAPAgent_Framework).
+

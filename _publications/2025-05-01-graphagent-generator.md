@@ -1,14 +1,21 @@
 ---
-title: "Paper Title Number 2"
+title: "LLM-Based Multi-Agent Systems are Scalable Graph Generative Models"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-05-01-graphagent-generator
+excerpt: 'This work introduces GraphAgent-Generator (GAG), a scalable framework for generating social graphs using LLM-based multi-agent systems.'
+date: 2025-05-01
+venue: 'To Appear in ACL-2025'
+# slidesurl: 'http://arxiv.org/abs/2410.09824'
+paperurl: 'http://arxiv.org/abs/2410.09824'
+# bibtexurl: 'http://academicpages.github.io/files/bibtex_gag.bib'
+# citation: 'Your Name, You. (2025). &quot;LLM-Based Multi-Agent Systems are Scalable Graph Generative Models.&quot; <i>To Appear in Journal of Scalable Graph Models</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+<!-- Traditional social graph generation methods are primarily divided into two categories: rule-based methods and deep learning-based methods. Rule-based methods, such as the Erdős–Rényi model and the Barabási–Albert model, simulate certain macroscopic network properties, such as power-law degree distributions. 
+Deep learning-based methods, such as GraphRNN and GraphVAE, leverage self-supervised learning to automatically capture complex patterns in graph structures.
+
+While these methods perform well in modeling small-scale graph structures, they face significant challenges when dealing with large-scale, dynamic, and attributed social networks. Since they heavily rely on training data and often suffer from overfitting when generating graphs at scales beyond the training set, making it difficult to generalize to larger graphs with reasonable macroscopic properties. -->
+
+In this work, we propose **GraphAgent-Generator (GAG)**, a social simulation framework tailored for generating social graphs. Inspired by the bipartite modeling approach of affiliation networks, GAG simulates the dynamic expansion of social networks by modeling pairwise interactions between agents and items. We designed the S-RAG algorithm, combined with parallel acceleration, to efficiently generate social graphs. <a href="https://github.com/Ji-Cather/GraphAgent">Source Code.</a>
