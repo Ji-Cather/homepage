@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-05-01-graphagent-generator
 excerpt: 'This work introduces GraphAgent-Generator (GAG), a scalable framework for generating social graphs using LLM-based multi-agent systems.'
 date: 2025-05-01
-venue: 'To Appear in ACL-2025'
+venue: 'To Appear in ACL-2025(findings)'
 # slidesurl: 'http://arxiv.org/abs/2410.09824'
 paperurl: 'http://arxiv.org/abs/2410.09824'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex_gag.bib'
