@@ -22,12 +22,12 @@ repository               : "Ji-Cather/homepage" # the repository where your site
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpeg"
+  avatar           : "avatar.png"
   name             : "Jiarui Ji"
   pronouns         : # example: "she/her"  
   bio              : "Currently a second-year B.S. student at the Gaoling School of Artificial Intelligence"
   location         : "Beijing"
-  employer         : "Professor Zhewei Wei's Lab, Renmin University of China"
+  employer         : "Renmin University of China"
   uri              : # URL
   email            : "jijiarui@ruc.edu.cn" 
 
