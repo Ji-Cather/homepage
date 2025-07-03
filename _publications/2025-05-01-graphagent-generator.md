@@ -9,7 +9,7 @@ venue: 'To Appear in ACL-2025'
 # slidesurl: 'http://arxiv.org/abs/2410.09824'
 paperurl: 'http://arxiv.org/abs/2410.09824'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex_gag.bib'
-# citation: 'Your Name, You. (2025). &quot;LLM-Based Multi-Agent Systems are Scalable Graph Generative Models.&quot; <i>To Appear in Journal of Scalable Graph Models</i>.'
+# citation: 'Jiarui Ji, You. (2025). &quot;LLM-Based Multi-Agent Systems are Scalable Graph Generative Models.&quot; <i>To Appear in Journal of Scalable Graph Models</i>.'
 ---
 
 
