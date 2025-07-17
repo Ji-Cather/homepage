@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiarui Ji is presently a second-year B.S. student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Prof. Zhewei Wei. Prior to this, she received her B.E. degree in Data Science from the School of Electronic and Information Engineering, Tongji University, in June 2023.
+Jiarui Ji is currently a second-year  M.E. student at the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Prof. Zhewei Wei. Prior to this, she received her B.E. degree in Data Science from the School of Electronic and Information Engineering, Tongji University, in June 2023. She will commence her Ph.D. studies at Renmin University in September 2025 under the supervision of Dr. Zhewei Wei.
 
 
 # Research Interests

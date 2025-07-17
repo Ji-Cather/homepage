@@ -4,7 +4,7 @@
     "email": "jijiarui@ruc.edu.cn",
     "phone": "18051801365",
     "website": "https://ji-cather.github.io/homepage/",
-    "summary": "Currently a second-year B.S. student at the Gaoling School of Artificial Intelligence",
+    "summary": "Currently a second-year M.E. student at the Gaoling School of Artificial Intelligence",
     "location": {
       "address": "Renmin University of China, No. 59 Zhongguancun Street",
       "postalCode": "",
@@ -35,7 +35,7 @@
   "education": [
     {
       "institution": "Renmin University of China",
-      "area": "M.S. in Artificial Intelligence",
+      "area": "M.E. in Artificial Intelligence",
       "studyType": "",
       "startDate": "",
       "endDate": "2023",
@@ -44,7 +44,7 @@
     },
     {
       "institution": "Tongji University",
-      "area": "B.S. in Data Science and Big Data Technology",
+      "area": "B.E. in Data Science and Big Data Technology",
       "studyType": "",
       "startDate": "",
       "endDate": "2019",
