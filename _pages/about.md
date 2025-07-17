@@ -25,11 +25,11 @@ My research focuses on LLM-based Agent for social simulation. I am currently wor
   [\[arXiv\]](http://arxiv.org/abs/2410.14152) [\[Code\]](https://github.com/jijiarui-cather/SRAPAgent_Framework)
 
 - **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2503.03258)**  
-  Runlin Lei, *Jiarui Ji*, Haipeng Ding, Lu Yi, Zhewei Wei\*, Yongchao Liu, and Chuntao Hong
+  Runlin Lei, *Jiarui Ji*, Haipeng Ding, Lu Yi, Zhewei Wei\*, Yongchao Liu, and Chuntao Hong.
   arXiv, 2025
   [\[arXiv\]](https://arxiv.org/abs/2503.03258)
 
 - **[GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning](https://arxiv.org/pdf/2507.03267)**  
-  Jie Peng,  *Jiarui Ji*, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong
+  Jie Peng,  *Jiarui Ji*, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong.
   arXiv, 2025
   [\[arXiv\]](https://arxiv.org/pdf/2507.03267) [\[Website\]](https://gdgb-algo.github.io/) [\[Code\]](https://github.com/Lucas-PJ/GDGB-ALGO) 
