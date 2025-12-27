@@ -33,12 +33,22 @@
   },
   "work": [],
   "education": [
+    
+    {
+      "institution": "Renmin University of China",
+      "area": "Ph.D. in Artificial Intelligence",
+      "studyType": "",
+      "startDate": "2025",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
     {
       "institution": "Renmin University of China",
       "area": "M.E. in Artificial Intelligence",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2023",
+      "startDate": "2023",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
@@ -46,8 +56,8 @@
       "institution": "Tongji University",
       "area": "B.E. in Data Science and Big Data Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2019",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
