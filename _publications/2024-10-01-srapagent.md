@@ -7,7 +7,7 @@ excerpt: 'This work introduces SRAP-Agent, a multi-agent frmaework for optimizin
 date: 2024-05-01
 venue: 'EMNLP-2024(findings)'
 # slidesurl: 'http://arxiv.org/abs/2410.14152'
-paperurl: 'https://arxiv.org/pdf/2410.14152'
+paperurl: 'https://aclanthology.org/2024.findings-emnlp.15/'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib'
 citation: 'Ji, Jiarui, et al. "SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent." Findings of the Association for Computational Linguistics: EMNLP 2024.'
 ---

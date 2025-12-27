@@ -58,12 +58,22 @@
   "references": [],
   "publications": [
     
+    
+    {
+      "name": "Leveraging LLM-based agents for social science research: insights from citation network simulations",
+      "authors": "Jiarui Ji, Runlin Lei, Jialing Bi, Zhewei Wei, Xu Chen, Yankai Lin, Xuchen Pan, Yaliang Li, Bolin Ding",
+      "publisher": "Accepted by Humanities and Social Sciences Communications (HSSCOMMS)",
+      "releaseDate": "2025-11-30",
+      "website": "https://arxiv.org/pdf/2511.03758",
+      "code": "https://github.com/Ji-Cather/CiteAgent",
+      "summary": "This paper presents an LLM-agent-based platform for simulating citation network dynamics, which enables controlled experimentation in academic environments."
+    },
     {
       "name": "LLM-Based Multi-Agent Systems are Scalable Graph Generative Models",
       "authors": "Jiarui Ji, Runlin Lei, Jialing Bi, Zhewei Wei, Xu Chen, Yankai Lin, Xuchen Pan, Yaliang Li, Bolin Ding",
       "publisher": "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL Findings)",
       "releaseDate": "2025-05-01“",
-      "website": "http://arxiv.org/abs/2410.09824",
+      "website": "https://aclanthology.org/2025.findings-acl.78/",
       "code": "https://github.com/Ji-Cather/GraphAgent",
       "summary": "This paper explores LLM-based multi-agent systems as scalable graph generative models."
     },
@@ -72,7 +82,7 @@
       "authors": "Jiarui Ji, Yang Li, Hongtao Liu, Zhicheng Du, Zhewei Wei, Qi Qi, Weiran Shen, Yankai Lin",
       "publisher": "Conference on Empirical Methods in Natural Language Processing (EMNLP Findings)",
       "releaseDate": "2024-10-01“",
-      "website": "http://arxiv.org/abs/2410.14152",
+      "website": "https://aclanthology.org/2024.findings-emnlp.15/",
       "code": "https://github.com/jijiarui-cather/SRAPAgent_Framework",
       "summary": "This paper presents SRAP-Agent, a framework for simulating and optimizing scarce resource allocation policies using LLM-based agents."
     }
