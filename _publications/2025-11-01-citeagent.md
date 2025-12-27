@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-11-01-citeagent
 excerpt: 'This work introduces CiteAgent, an LLM-agent-based platform for simulating citation network dynamics, which enables controlled experimentation in academic environments.'
 date: 2025-05-01
-venue: 'To Appear in HSSCOMMS-2025'
+venue: 'To Appear in HSSCOMMS(SSCI Q1, AHCI Q1)'
 # slidesurl: 'http://arxiv.org/abs/2410.09824'
 paperurl: 'https://arxiv.org/pdf/2511.03758'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex_gag.bib'
