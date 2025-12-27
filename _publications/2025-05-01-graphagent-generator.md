@@ -8,7 +8,7 @@ date: 2025-05-01
 venue: 'ACL-2025(findings)'
 # slidesurl: 'http://arxiv.org/abs/2410.09824'
 paperurl: 'https://aclanthology.org/2025.findings-acl.78/'
-# bibtexurl: 'http://academicpages.github.io/files/bibtex_gag.bib'
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:nsle65QInv0J:scholar.google.com/&output=citation&scisdr=Crylu7caEPSxxoZU1fM:ALhkC2QAAAAAaU9SzfPLAOv-QYDm-vP58gvjpQU&scisig=ALhkC2QAAAAAaU9Szf1vSj9M40V3_vUP97bYRVQ&scisf=4&ct=citation&cd=-1&hl=zh-CN'
 # citation: 'Jiarui Ji, You. (2025). &quot;LLM-Based Multi-Agent Systems are Scalable Graph Generative Models.&quot; <i>To Appear in Journal of Scalable Graph Models</i>.'
 ---
 
