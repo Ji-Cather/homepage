@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2025-11-01-citeagent
 excerpt: 'This work introduces CiteAgent, an LLM-agent-based platform for simulating citation network dynamics, which enables controlled experimentation in academic environments.'
 date: 2025-05-01
-venue: 'To Appear in HSSCOMMS(SSCI Q1, AHCI Q1)'
+venue: 'HSSCOMMS(SSCI Q1, AHCI Q1)'
 # slidesurl: 'http://arxiv.org/abs/2410.09824'
-paperurl: 'https://arxiv.org/pdf/2511.03758'
+paperurl: 'https://www.nature.com/articles/s41599-025-06193-w'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex_gag.bib'
 # citation: 'Jiarui Ji, You. (2025). &quot;LLM-Based Multi-Agent Systems are Scalable Graph Generative Models.&quot; <i>To Appear in Journal of Scalable Graph Models</i>.'
 ---
