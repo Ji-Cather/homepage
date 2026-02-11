@@ -15,22 +15,22 @@ My research focuses on LLM-based Agent for social simulation. I am currently wor
 # Publications
 - **[Leveraging LLM-based agents for social science research: insights from citation network simulations](http://arxiv.org/abs/2410.09824)**  
   **Jiarui Ji**, Runlin Lei, Xuchen Pan, Zhewei Wei\*, Hao Sun, Yankai Lin, Xu Chen, Yongzheng Yang, Yaliang Li, Bolin Ding and Ji-Rong Wen.  
-  Humanities and Social Sciences Communications* (HSSCOMMS), 2025
+  *Humanities and Social Sciences Communications* (HSSCOMMS), 2025
   [\[arXiv\]](https://www.nature.com/articles/s41599-025-06193-w) [\[Code\]](https://github.com/Ji-Cather/CiteAgent)
 
 - **[LLM-Based Multi-Agent Systems are Scalable Graph Generative Models](http://arxiv.org/abs/2410.09824)**  
   **Jiarui Ji**, Runlin Lei, Jialing Bi, Zhewei Wei\*, Xu Chen, Yankai Lin, Xuchen Pan, Yaliang Li, and Bolin Ding.  
-  The 63rd Annual Meeting of the Association for Computational Linguistics* (ACL Findings), 2025
+  *The 63rd Annual Meeting of the Association for Computational Linguistics* (ACL Findings), 2025
   [\[Link\]](https://aclanthology.org/2025.findings-acl.78/) [\[Code\]](https://github.com/Ji-Cather/GraphAgent)
 
 - **[SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-Based Agent](https://aclanthology.org/2024.findings-emnlp.15/)**  
   **Jiarui Ji**, Yang Li, Hongtao Liu, Zhicheng Du, Zhewei Wei\*, Qi Qi, Weiran Shen, and Yankai Lin.
-  Conference on Empirical Methods in Natural Language Processing* (EMNLP Findings), 2024
+  *Conference on Empirical Methods in Natural Language Processing* (EMNLP Findings), 2024
   [\[Link\]](https://aclanthology.org/2024.findings-emnlp.15/) [\[Code\]](https://github.com/jijiarui-cather/SRAPAgent_Framework)
 
 - **[GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning](https://arxiv.org/abs/2507.03267)**  
   Jie Peng, **Jiarui Ji**, Runlin Lei, Zhewei Wei, Yongchao Liu, Chuntao Hong.
-  The Fourteenth International Conference on Learning Representations, 2025
+  *The Fourteenth International Conference on Learning Representations* (ICLR), 2025
   [\[Link\]](https://openreview.net/pdf?id=5UFUHUC5qP) [\[Website\]](https://gdgb-algo.github.io/) [\[Code\]](https://github.com/Lucas-PJ/GDGB-ALGO) 
 
 - **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2503.03258)**  
