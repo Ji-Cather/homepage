@@ -29,7 +29,7 @@ My research focuses on LLM-based Agent for social simulation. I am currently wor
   [\[Link\]](https://aclanthology.org/2024.findings-emnlp.15/) [\[Code\]](https://github.com/jijiarui-cather/SRAPAgent_Framework)
 
 - **[GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning](https://arxiv.org/abs/2507.03267)**  
-  Jie Peng, **Jiarui Ji**, Runlin Lei, Zhewei Wei, Yongchao Liu, Chuntao Hong
+  Jie Peng, **Jiarui Ji**, Runlin Lei, Zhewei Wei, Yongchao Liu, Chuntao Hong.
   The Fourteenth International Conference on Learning Representations, 2025
   [\[Link\]](https://openreview.net/pdf?id=5UFUHUC5qP) [\[Website\]](https://gdgb-algo.github.io/) [\[Code\]](https://github.com/Lucas-PJ/GDGB-ALGO) 
 
