@@ -12,11 +12,16 @@ Jiarui Ji is currently a First-year Ph.D. student at the Gaoling School of Artif
 # Research Interests
 My research focuses on LLM-based Agent for social simulation. I am currently working on dynamic graph generation, text-attributed graph generation and LLM-based Agent.
 
-# Publications
-- **[Leveraging LLM-based agents for social science research: insights from citation network simulations](http://arxiv.org/abs/2410.09824)**  
+# Publications 
+- **[GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation](https://arxiv.org/abs/2510.24251)**  
+  **Jiarui Ji**, Zehua Zhang, Zhewei Wei\*, Bin Tong, GUAN WANG, Bo Zheng.
+  *The 64th Annual Meeting of the Association for Computational Linguistics* (ACL), 2026
+  [\[arXiv\]](https://www.nature.com/articles/s41599-025-06193-w) [\[Code\]](https://github.com/Ji-Cather/Graphia.git)
+
+- **[Leveraging LLM-based agents for social science research: insights from citation network simulations](http://arxiv.org/abs/2410.09824)** 
   **Jiarui Ji**, Runlin Lei, Xuchen Pan, Zhewei Wei\*, Hao Sun, Yankai Lin, Xu Chen, Yongzheng Yang, Yaliang Li, Bolin Ding and Ji-Rong Wen.  
   *Humanities and Social Sciences Communications* (HSSCOMMS), 2025
-  [\[arXiv\]](https://www.nature.com/articles/s41599-025-06193-w) [\[Code\]](https://github.com/Ji-Cather/CiteAgent)
+  [\[arXiv\]](https://arxiv.org/abs/2510.24251) [\[Code\]](https://github.com/Ji-Cather/CiteAgent)
 
 - **[LLM-Based Multi-Agent Systems are Scalable Graph Generative Models](http://arxiv.org/abs/2410.09824)**  
   **Jiarui Ji**, Runlin Lei, Jialing Bi, Zhewei Wei\*, Xu Chen, Yankai Lin, Xuchen Pan, Yaliang Li, and Bolin Ding.  
