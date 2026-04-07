@@ -67,14 +67,21 @@
   "interests": [],
   "references": [],
   "publications": [
-    
-    
+     {
+      "name": "GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation",
+      "authors": "Jiarui Ji, Zehua Zhang, Zhewei Wei, Bin Tong, GUAN WANG, Bo Zheng",
+      "publisher": "Accepted by the 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026",
+      "releaseDate": "2026-04-01",
+      "website": "https://arxiv.org/abs/2510.24251",
+      "code": "https://github.com/Ji-Cather/Graphia",
+      "summary": "This paper introduces Graphia, the first general LLM-based framework for simulating dynamic social graphs, enabling graph-supervised post-training that aligns agent behaviors with both local interactions and emergent network structure."
+    },
     {
       "name": "Leveraging LLM-based agents for social science research: insights from citation network simulations",
       "authors": "Jiarui Ji, Runlin Lei, Jialing Bi, Zhewei Wei, Xu Chen, Yankai Lin, Xuchen Pan, Yaliang Li, Bolin Ding",
-      "publisher": "Accepted by Humanities and Social Sciences Communications (SSCI Q1, AHCI Q1)",
-      "releaseDate": "2025-11-30",
-      "website": "https://arxiv.org/pdf/2511.03758",
+      "publisher": "Humanities and Social Sciences Communications (SSCI Q1, AHCI Q1)",
+      "releaseDate": "2026-01-30",
+      "website": "https://www.nature.com/articles/s41599-025-06193-w",
       "code": "https://github.com/Ji-Cather/CiteAgent",
       "summary": "This paper presents an LLM-agent-based platform for simulating citation network dynamics, which enables controlled experimentation in academic environments."
     },
