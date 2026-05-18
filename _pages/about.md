@@ -15,7 +15,7 @@ My research focuses on LLM-based Agent for social simulation. I am currently wor
 # Publications 
 - **[GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation](https://arxiv.org/abs/2510.24251)**  
   **Jiarui Ji**, Zehua Zhang, Zhewei Wei\*, Bin Tong, GUAN WANG, Bo Zheng.
-  *The 64th Annual Meeting of the Association for Computational Linguistics* (ACL), 2026
+  *The 64th Annual Meeting of the Association for Computational Linguistics* (ACL oral), 2026
   [\[arXiv\]](https://arxiv.org/abs/2510.24251) [\[Code\]](https://github.com/Ji-Cather/Graphia.git)
 
 - **[Leveraging LLM-based agents for social science research: insights from citation network simulations](http://arxiv.org/abs/2410.09824)**
