@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-10-01-srapagent
 excerpt: 'This work introduces SRAP-Agent, a multi-agent frmaework for optimizing resource allocation policies.'
 date: 2024-05-01
-venue: 'EMNLP-2024(findings)'
+venue: 'EMNLP'
 # slidesurl: 'http://arxiv.org/abs/2410.14152'
 paperurl: 'https://aclanthology.org/2024.findings-emnlp.15/'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:JCAcu1qFScQJ:scholar.google.com/&output=citation&scisdr=Crylu7caEPSxxoZUs4o:ALhkC2QAAAAAaU9Sq4pbCPMtnJwM47WfcimSt9E&scisig=ALhkC2QAAAAAaU9SqyZecwiujWETdAFwIc-En_M&scisf=4&ct=citation&cd=-1&hl=zh-CN'
